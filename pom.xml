@@ -4,10 +4,9 @@
   <groupId>com.jenkins.demo</groupId>
   <artifactId>JenkinsWar1</artifactId>
   <packaging>war</packaging>
-  <version>1.0.4-snapshots</version>
+  <version>1.0.4-SNAPSHOT</version>
   <name>JenkinsWar Maven Webapp</name>
   <url>http://maven.apache.org</url>
- 
   <distributionManagement>
   <repository>
     <id>releases</id>
